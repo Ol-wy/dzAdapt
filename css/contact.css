@@ -1,0 +1,98 @@
+.contact {
+    padding-top: 136px;
+}
+
+.contact__inner {
+    display: flex;
+}
+
+
+.contact__left h2 {
+    padding-bottom: 53px;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 43px;
+
+}
+
+.contact__left p {
+    width: 434px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: justify;
+}
+
+.contact__right {
+    padding-left: 100px;
+    width: 540px;
+    display: flex;
+}
+
+
+input[type="text"] {
+    width: 255px;
+    height: 60px;
+    padding-left: 31px;
+    border: 1px solid #333333;
+    border-radius: 6px; 
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    
+}
+
+input[type="surname"]{
+    width: 255px;
+    height: 60px;
+    padding-left: 31px;
+    margin-left: 25px;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    
+}
+
+input[type="phone"] {
+    width: 540px;
+    height: 60px;
+    padding-left: 31px;
+    margin: 24px 0 24px;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    
+}
+
+select[type="phone"] {
+    width: 540px;
+    height: 60px;
+    padding-left: 31px;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;  
+    text-decoration: none;  
+}
+
+
+button {
+    margin-top: 30px;
+    padding: 17px 34px;
+    background: #ED4C5C;
+    border: 1.5px solid #ED4C5C;
+    border-radius: 6px; 
+}
+
+button p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    color: white;
+    text-transform: uppercase;
+}
